@@ -21,6 +21,7 @@ const Services = () => {
     four: {
       opacity: 0,
       x: "100%",
+      
     },
     
   };
